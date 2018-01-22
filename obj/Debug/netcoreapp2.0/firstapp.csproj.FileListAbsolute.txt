@@ -1,0 +1,10 @@
+/home/randy/netcore-randy/firstapp/bin/Debug/netcoreapp2.0/firstapp.deps.json
+/home/randy/netcore-randy/firstapp/bin/Debug/netcoreapp2.0/firstapp.runtimeconfig.json
+/home/randy/netcore-randy/firstapp/bin/Debug/netcoreapp2.0/firstapp.runtimeconfig.dev.json
+/home/randy/netcore-randy/firstapp/bin/Debug/netcoreapp2.0/firstapp.dll
+/home/randy/netcore-randy/firstapp/bin/Debug/netcoreapp2.0/firstapp.pdb
+/home/randy/netcore-randy/firstapp/obj/Debug/netcoreapp2.0/firstapp.csproj.CoreCompileInputs.cache
+/home/randy/netcore-randy/firstapp/obj/Debug/netcoreapp2.0/firstapp.AssemblyInfoInputs.cache
+/home/randy/netcore-randy/firstapp/obj/Debug/netcoreapp2.0/firstapp.AssemblyInfo.cs
+/home/randy/netcore-randy/firstapp/obj/Debug/netcoreapp2.0/firstapp.dll
+/home/randy/netcore-randy/firstapp/obj/Debug/netcoreapp2.0/firstapp.pdb
