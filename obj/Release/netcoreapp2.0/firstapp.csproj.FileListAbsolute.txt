@@ -1,0 +1,10 @@
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/bin/Release/netcoreapp2.0/firstapp.deps.json
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/bin/Release/netcoreapp2.0/firstapp.runtimeconfig.json
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/bin/Release/netcoreapp2.0/firstapp.runtimeconfig.dev.json
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/bin/Release/netcoreapp2.0/firstapp.dll
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/bin/Release/netcoreapp2.0/firstapp.pdb
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/obj/Release/netcoreapp2.0/firstapp.csproj.CoreCompileInputs.cache
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/obj/Release/netcoreapp2.0/firstapp.AssemblyInfoInputs.cache
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/obj/Release/netcoreapp2.0/firstapp.AssemblyInfo.cs
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/obj/Release/netcoreapp2.0/firstapp.dll
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/obj/Release/netcoreapp2.0/firstapp.pdb

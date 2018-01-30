@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/randy/netcore-randy/firstapp/firstapp.csproj",
+      "projectUniqueName": "/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/firstapp.csproj",
       "projectName": "firstapp",
-      "projectPath": "/home/randy/netcore-randy/firstapp/firstapp.csproj",
+      "projectPath": "/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/firstapp.csproj",
       "packagesPath": "/home/randy/.nuget/packages/",
-      "outputPath": "/home/randy/netcore-randy/firstapp/obj/",
+      "outputPath": "/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

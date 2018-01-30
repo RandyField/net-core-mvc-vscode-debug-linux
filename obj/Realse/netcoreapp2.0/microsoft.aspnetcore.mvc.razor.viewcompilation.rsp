@@ -1,0 +1,12 @@
+/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu
+--output-path=obj/Realse/netcoreapp2.0/
+--application-name=firstapp
+--content-root=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/Home/About.cshtml
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/Home/Contact.cshtml
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/Home/Index.cshtml
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/Shared/Error.cshtml
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/Shared/_Layout.cshtml
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/_ViewImports.cshtml
+--file=/home/randy/vscode/github/.net-core-mvc-vscode-debug-ubuntu/Views/_ViewStart.cshtml
